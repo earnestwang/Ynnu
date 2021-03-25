@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="debc3bd7-a828-4123-9e94-4152c1d2c5ca" name="http://10.10.114.150/">
+        <fileTransfer accessType="SFTP" host="10.10.114.150" port="22" sshConfigId="abb25939-43e3-41dc-bc41-bbb8df7feeb0" sshConfig="visionx@10.10.114.150:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
